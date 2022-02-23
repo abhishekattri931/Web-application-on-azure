@@ -1,0 +1,7 @@
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\ContactPage.exe
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\ContactPage.dll
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\ContactPage.deps.json
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\ContactPage.runtimeconfig.json
+C:\Users\abhis\source\repos\ContactPage\ContactPage\obj\Release\net6.0\PubTmp\Out\ContactPage.pdb
